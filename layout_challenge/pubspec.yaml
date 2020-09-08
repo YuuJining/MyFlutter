@@ -36,6 +36,6 @@ flutter:
     fonts:
     - asset: fonts/PatrickHand-Regular.ttf
 
-  - family: Shrikhand
+  - family: ShrikHand
     fonts:
-    - asset: fonts/ShirkHand-Regular.ttf
+    - asset: fonts/ShrikHand-Regular.ttf
